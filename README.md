@@ -19,15 +19,12 @@ allprojects {
  Add the dependency in your app build.gradle
  ```
 dependencies {
-   implementation 'com.github.MrNouri:DynamicSizes:1.0'
+   implementation 'com.github.vwgco:DynamicSizes:1.0'
 }
  ```
 ## Library result
-![MDP example](https://raw.githubusercontent.com/MrNouri/DynamicSizes/master/MDP_preview-min.jpg) 
+![MDP example](https://raw.githubusercontent.com/vwgco/DynamicSizes/master/MDP_preview-min.jpg) 
  
-## Requirements
-For use this library, you should use **```AndroidX```** instead of **```Support```**
-* If you used **```Support library```**, please see this linke : [DynamicSizes_support](https://github.com/MrNouri/DynamicSizes_support)
 
 ## Usage
 
@@ -44,7 +41,7 @@ For use this library, you should use **```AndroidX```** instead of **```Support`
 | Font size  | ```_12font_mdp``` |
 | Negative sizes  | ```mines20mdp``` |
 
-* For see more examples and above images source codes, please see this link : [activity_main_mdp.xml](https://github.com/MrNouri/DynamicSizes/blob/master/app/src/main/res/layout/activity_main_mdp.xml)
+* For see more examples and above images source codes, please see this link : [activity_main_mdp.xml](https://github.com/vwgco/DynamicSizes/blob/master/app/src/main/res/layout/activity_main_mdp.xml)
 
 ## Thanks
 Special thanks from [Mickael Guillaume](https://www.uplabs.com/guillaumemick) for this great [movie UI](https://www.uplabs.com/posts/movies-e0f9c1ea-a644-4666-857b-10933c4089ca)
